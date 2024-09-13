@@ -1,9 +1,16 @@
-## Hi there 👋
+![banner presentacion](1.png)
 
-<!--
-**JuanDa1031/JuanDa1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Hola, soy Juan David Barragan, Estudiante de la Computación.*** 
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-barragan-aguirre-962928328) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/juanda1031)
+
+
+## ⚡datos rapidos sobre mi:
+- 🌱 Estoy aprendiendo nuevas técnicas de **Análisis y visualización de Datos**
+- 🔭 Estoy implementando modelos matemáticos de **Machine Learning**
+- 📫 Contacto: Jubarragana@unal.edu.co
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
